@@ -1,3 +1,11 @@
+# Você parou no desafio de criar um programa
+# que pergunta ao usuário quantas frutas ele deseja
+# cadastrar, solicita o nome e preço de cada fruta,
+# armazena esses dados em um dicionário
+# e depois exibe todas as frutas com seus preços,
+# além de calcular a média dos preços.
+
+
 frutas = {}
 
 fruta = input('digite o nome da fruta:')
