@@ -12,9 +12,6 @@ print(lista)
 valor_maximo = max(lista)
 valor_minimo = min(lista)
 
-valor_media = 0
-
-
 #ERRADO
 # for i in range(5):
 #     if valor_media <= len(lista):
